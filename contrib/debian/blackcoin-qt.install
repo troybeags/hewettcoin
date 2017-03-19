@@ -1,0 +1,5 @@
+hewettcoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/hewettcoin-qt.desktop usr/share/applications
+debian/hewettcoin-qt.protocol usr/share/kde4/services/

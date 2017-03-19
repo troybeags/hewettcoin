@@ -1,0 +1,9 @@
+Building HewettCoin
+
+See doc/readme-qt.rst for instructions on building HewettCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HewettCoin.
+
+See doc/build-*.txt for instructions on building hewettcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HewettCoin.

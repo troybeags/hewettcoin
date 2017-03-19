@@ -1,0 +1,2 @@
+debian/bin/hewettcoind usr/bin
+src/hewettcoind usr/lib/hewettcoin
